@@ -15,4 +15,4 @@
 
 ### + how can I reach you?
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="550" height="200"/> <a href="https://personal-website-samet.herokuapp.com/index"><b>-> Click...</b></a>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="550" height="200"/> <a href="https://www.linkedin.com/in/samet-%C3%A7elik-0376311a7/"><b>-> Click...</b></a>
