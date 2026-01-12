@@ -11,8 +11,8 @@
 
 ### + are you sure? 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yefhem&layout=compact&bg_color=000000&text_color=fff&card_width=500)](https://github.com/anuraghazra/github-readme-stats) -> <b>Yes...</b>
+<b>Yes...</b>
 
 ### + how can I reach you?
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="550" height="200"/> <a href="https://www.linkedin.com/in/samet-%C3%A7elik-0376311a7/"><b>-> Click...</b></a>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="550" height="200"/> <a href="https://sametcelik.me"><b>-> Click...</b></a>
